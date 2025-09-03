@@ -5,7 +5,7 @@ I’m Andrei, a mathematics student at the University of Oxford. I'm passionate 
 
 I'm currently learning about C++ using [learncpp.com](https://learncpp.com), and about operating systems from the book [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/). If you have any recommendations for books in these areas, let me know!
 
-In my free time, I like to learn languages (I'm currently learning Mandarin Chinese), go to the gym, and eat food. My personal favourite cuisine is Malaysian.
+In my free time, I like to learn languages (I'm currently learning Mandarin Chinese), go to the gym, and try new food. My personal favourite cuisine is Malaysian.
 
 ## 🛠️ Skills  
 - **Languages:** C, C++, Python, Julia, Bash
